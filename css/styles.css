@@ -202,7 +202,7 @@ img {
 }
 .home-title {
   font-size: var(--big-font-size);
-  margin-bottom: var(--mb-5);
+  margin-bottom: var(--mb-12);
 }
 .home-title-color {
   color: var(--first-color);
